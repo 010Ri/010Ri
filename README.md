@@ -16,9 +16,9 @@
 </p>
 
 
-[![010Ri's GitHub stats](https://github-readme-stats.vercel.app/api?username=010Ri&count_private=true&show_icons=true&theme=tokyonight)]()
+[![010Ri's GitHub stats](https://github-readme-stats-010ri.vercel.app/api?username=010Ri&count_private=true&show_icons=true&theme=tokyonight)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=010Ri&layout=compact&theme=merko)]()
+[![Top Langs](https://github-readme-stats-010ri.vercel.app/api/top-langs/?username=010Ri&layout=compact&theme=merko)]()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=010Ri&theme=dracula)]()
 
