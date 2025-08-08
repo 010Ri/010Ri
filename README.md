@@ -4,23 +4,8 @@
   </ul>
 </div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://github.com/010Ri">
-        <img src="https://komarev.com/ghpvc/?username=010Ri&style=for-the-badge&color=blue" alt="Profile views"/>
-      </a>
-    </td>
-    <td width="10"></td> <td>
-      <a href="https://qiita.com/010Ri">
-        <img src="https://badgen.org/img/qiita/010Ri/contributions?style=for-the-badge&color=55c500" alt="Qiita Contributions"/>
-      </a>
-    </td>
-  </tr>
-</table>
----
-
-### 🙋‍♂️ About Me
+[![Profile views](https://komarev.com/ghpvc/?username=010Ri&abbreviated=true)](https://github.com/010Ri)
+[![Contributions](https://badgen.org/img/qiita/010Ri/contributions?style=plastic)](https://qiita.com/010Ri)
 
 I enjoy traveling ✈️ and taking relaxing walks 🚶 in my free time.
 
