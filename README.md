@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-[![Contributions](https://badgen.org/img/qiita/koki_develop/contributions?style=plastic)](https://qiita.com/koki_develop)
+![](https://komarev.com/ghpvc/?username=010Ri)
+[![Contributions](https://badgen.org/img/qiita/010Ri/contributions?style=plastic)](https://qiita.com/010Ri)
 ---
 
 ## 🛠 Tech Stack
