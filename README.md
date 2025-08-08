@@ -1,20 +1,7 @@
 ### Hi there 👋
 
-<p align="left">
-  <a href="https://github.com/010Ri/010Ri/">
-    <img src="https://komarev.com/ghpvc/?username=010Ri" alt="010Ri" />
-  </a>
-  <a href="https://github.com/010Ri">
-    <img height="20" src="https://img.shields.io/github/followers/010Ri?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/010Ri">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/010Ri/posts.svg" />
-  </a>
-  <a href="http://qiita.com/010Ri">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/010Ri/contributions.svg" />
-  </a>
-</p>
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
+[![Contributions](https://badgen.org/img/qiita/koki_develop/contributions?style=plastic)](https://qiita.com/koki_develop)
 ---
 
 ## 🛠 Tech Stack
