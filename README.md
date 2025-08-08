@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there 👋</h1></summary>
@@ -76,3 +78,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=010Ri&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?" alt="GitHub Trophy" />
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
