@@ -1,17 +1,23 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there, I'm 010Ri 👋</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there 👋</h1></summary>
   </ul>
 </div>
 
-[![Profile views](https://komarev.com/ghpvc/?username=010Ri&abbreviated=true)](https://github.com/010Ri)
-[![Contributions](https://badgen.org/img/qiita/010Ri/contributions?style=plastic)](https://qiita.com/010Ri)
+<p align="center">
+  I enjoy traveling ✈️ and taking relaxing walks 🚶 in my free time.
+</p>
 
-I enjoy traveling ✈️ and taking relaxing walks 🚶 in my free time.
+<p align="center">
+  <a href="https://github.com/010Ri">
+    <img src="https://komarev.com/ghpvc/?username=010Ri&style=for-the-badge&color=blue" alt="Profile views"/></a>
+  <a href="https://qiita.com/010Ri">
+    <img src="https://badgen.org/img/qiita/010Ri/contributions?style=for-the-badge&color=55c500" alt="Qiita Contributions"/></a>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%A0+Tech+Stack)](https://git.io/typing-svg)
 
 <p align="center">
   <img alt="Languages" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,7 +71,7 @@ I enjoy traveling ✈️ and taking relaxing walks 🚶 in my free time.
 
 ---
 
-### 📊 GitHub Stats  
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=010Ri&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?" alt="GitHub Trophy" />
