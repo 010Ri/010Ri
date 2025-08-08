@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=010Ri&abbreviated=true)](https://github.com/010Ri)  
+[![Profile views](https://komarev.com/ghpvc/?username=010Ri&abbreviated=true)](https://github.com/010Ri)
 [![Contributions](https://badgen.org/img/qiita/010Ri/contributions?style=plastic)](https://qiita.com/010Ri)
+
+I enjoy traveling ✈️ and taking relaxing walks 🚶 in my free time.
 
 ---
 
@@ -59,13 +61,8 @@
 
 ---
 
-## 🎯 Hobbies & Interests  
-✈️ Traveling & 🚶 Walking
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=010Ri&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=010Ri&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?" alt="GitHub Trophy" />
 </p>
