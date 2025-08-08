@@ -1,26 +1,71 @@
 ### Hi there 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=010Ri&abbreviated=true)](https://github.com/010Ri)
+[![Profile views](https://komarev.com/ghpvc/?username=010Ri&abbreviated=true)](https://github.com/010Ri)  
 [![Contributions](https://badgen.org/img/qiita/010Ri/contributions?style=plastic)](https://qiita.com/010Ri)
+
 ---
 
 ## 🛠 Tech Stack
 
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20PHP%20%7C%20C%20%7C%20C++%20%7C%20Java%20%7C%20HTML%20%7C%20CSS-blue)
-![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20GatsbyJS%20%7C%20Hugo%20%7C%20Bootstrap%20%7C%20Tailwind%20%7C%20jQuery-orange)
-![Databases](https://img.shields.io/badge/Databases-MySQL%20%7C%20MariaDB-informational)
-![CMS](https://img.shields.io/badge/CMS-WordPress-brightgreen)
-![Shells](https://img.shields.io/badge/Shells-Bash%20%7C%20Zsh%20%7C%20Fish-lightgrey)
-![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20Docker%20Compose%20%7C%20Git%20%7C%20GitHub%20%7C%20Firebase%20%7C%20Postman-informational)
-![OS](https://img.shields.io/badge/OS-Ubuntu%20%7C%20Linux%20%7C%20macOS-lightgrey)
+<p align="center">
+  <img alt="Languages" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Languages" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Languages" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Languages" src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Languages" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Languages" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Languages" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Languages" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="Frameworks" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Frameworks" src="https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img alt="Frameworks" src="https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
+  <img alt="Frameworks" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Frameworks" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Frameworks" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="Databases" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Databases" src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="CMS" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="Shells" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Shells" src="https://img.shields.io/badge/-Zsh-FFFFFF?style=for-the-badge&logo=zsh&logoColor=black" />
+  <img alt="Shells" src="https://img.shields.io/badge/-Fish-29B0FF?style=for-the-badge&logo=fish&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="Tools" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Tools" src="https://img.shields.io/badge/-DockerCompose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Tools" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Tools" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Tools" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="Tools" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="OS" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="OS" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="OS" src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Hobbies & Interests
-- Traveling  
-- Walking
+## 🎯 Hobbies & Interests  
+✈️ Traveling & 🚶 Walking
 
 ---
 
-## 📊 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=010Ri&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?)]()
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=010Ri&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?" alt="GitHub Trophy" />
+</p>
