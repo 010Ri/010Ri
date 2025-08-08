@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=010Ri)
+[![Profile views](https://komarev.com/ghpvc/?username=010Ri&abbreviated=true)](https://github.com/010Ri)
 [![Contributions](https://badgen.org/img/qiita/010Ri/contributions?style=plastic)](https://qiita.com/010Ri)
 ---
 
