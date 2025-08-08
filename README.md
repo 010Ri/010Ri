@@ -15,6 +15,23 @@
   </a>
 </p>
 
+---
+
+## 🛠 Tech Stack
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20HTML--CSS-blue)
+![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Astro%20%7C%20Hugo%20%7C%20GatsbyJS-orange)
+![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20Git%20%7C%20Firebase%20%7C%20Postman-informational)
+![OS](https://img.shields.io/badge/OS-Ubuntu%20Server%20%7C%20macOS-lightgrey)
+
+---
+
+## 📊 GitHub Stats
+![010Ri's GitHub stats](https://github-readme-stats.vercel.app/api?username=010Ri&show_icons=true&theme=tokyonight)
+![010Ri's GitHub stats](https://github-readme-stats-yourname.vercel.app/api?username=010Ri&show_icons=true&theme=tokyonight&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=010Ri&theme=dracula&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 
 [![010Ri's GitHub stats](https://github-readme-stats-010ri.vercel.app/api?username=010Ri&count_private=true&show_icons=true&theme=tokyonight)]()
 
