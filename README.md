@@ -76,7 +76,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=010Ri&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=010Ri&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true&rank=-C,-?" alt="GitHub Trophy" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
